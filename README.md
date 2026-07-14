@@ -18,8 +18,8 @@ This Telegram bot receives `.txt` files from users, automatically extracts all `
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/repo-name.git](https://github.com/YourUsername/repo-name.git)
-   cd repo-name
+   git clone [https://github.com/GeneralAXTED/TXT-Link-Extractor-Telegram-Bot.git]
+   cd TXT-Link-Extractor-Telegram-Bot
 
 Create and activate a Virtual Environment:
 
